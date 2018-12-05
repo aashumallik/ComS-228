@@ -3,7 +3,7 @@ package edu.iastate.cs228.hw01;
 
 /**
  * 
-* @author Y. Daniel Liang
+* @author Aashutosh Mallik
 */
 
 // GeometricObject.java: The abstract GeometricObject class
